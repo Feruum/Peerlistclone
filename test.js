@@ -1,0 +1,1 @@
+﻿const cheerio=require("cheerio"); const fs=require("fs"); const t=fs.readFileSync("docs/research/dump/scroll_body.html","utf8"); const $ = cheerio.load(t); console.log($(".max-w-\\\\[1420px\\\\]").length);
