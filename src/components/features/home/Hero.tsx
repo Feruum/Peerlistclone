@@ -1,5 +1,5 @@
 ﻿import Image from 'next/image';
-import data from '../../../../docs/research/global_tokens.json';
+import data from '../../../lib/data/global_tokens.json';
 
 export function Hero() {
   const avatars = data.images.filter(img => img.src.includes('profile')).slice(0, 6);

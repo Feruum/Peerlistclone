@@ -1,0 +1,192 @@
+{
+  "title": "Peerlist | The Professional Network for builders to show and tell!",
+  "bodyStyles": {
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "Geist, sans-serif"
+  },
+  "colors": {
+    "--gray-00": "255 255 255",
+    "--gray-25": "248 249 251",
+    "--gray-50": "248 250 252",
+    "--gray-100": "241 245 249",
+    "--gray-200": "226 232 240",
+    "--gray-300": "203 213 225",
+    "--gray-400": "148 163 184",
+    "--gray-500": "100 116 139",
+    "--gray-600": "71 85 105",
+    "--gray-700": "51 65 85",
+    "--gray-800": "30 41 59",
+    "--gray-900": "15 23 42",
+    "--gray-1k": "13 13 13",
+    "--border": "var(--gray-200)",
+    "--shadow-5": "0px 1px 1px -0.5px rgba(0,0,0,0.03),0px 3px 3px -1.5px rgba(0,0,0,0.03)",
+    "--shadow-10": "0px 3px 3px -1.5px rgba(0,0,0,0.03),0px 6px 6px -3px rgba(0,0,0,0.03),0px 12px 12px -6px rgba(0,0,0,0.03)",
+    "--shadow-15": "0px 3px 3px -1.5px rgba(0,0,0,0.08),0px 6px 6px -3px rgba(0,0,0,0.08),0px 12px 12px -6px rgba(0,0,0,0.08),0px 24px 24px -12px rgba(0,0,0,0.08)",
+    "--shadow-focus": "0px 0px 0px 4px #e1e4e880",
+    "--chart-1": "47,128,237",
+    "--rt-opacity": "1",
+    "--rt-transition-show-delay": "0.3s",
+    "--rt-transition-closing-delay": "0.3s",
+    "--toastify-color-light": "#fff",
+    "--toastify-color-dark": "#121212",
+    "--toastify-color-info": "#3498db",
+    "--toastify-color-success": "#07bc0c",
+    "--toastify-color-warning": "#f1c40f",
+    "--toastify-color-error": "#e74c3c",
+    "--toastify-color-transparent": "rgba(255,255,255,0.7)",
+    "--toastify-icon-color-info": "var(--toastify-color-info)",
+    "--toastify-icon-color-success": "var(--toastify-color-success)",
+    "--toastify-icon-color-warning": "var(--toastify-color-warning)",
+    "--toastify-icon-color-error": "var(--toastify-color-error)",
+    "--toastify-toast-width": "320px",
+    "--toastify-toast-background": "#fff",
+    "--toastify-toast-min-height": "64px",
+    "--toastify-toast-max-height": "800px",
+    "--toastify-font-family": "sans-serif",
+    "--toastify-z-index": "9999",
+    "--toastify-text-color-light": "#757575",
+    "--toastify-text-color-dark": "#fff",
+    "--toastify-text-color-info": "#fff",
+    "--toastify-text-color-success": "#fff",
+    "--toastify-text-color-warning": "#fff",
+    "--toastify-text-color-error": "#fff",
+    "--toastify-spinner-color": "#616161",
+    "--toastify-spinner-color-empty-area": "#e0e0e0",
+    "--toastify-color-progress-light": "linear-gradient(90deg,#4cd964,#5ac8fa,#007aff,#34aadc,#5856d6,#ff2d55)",
+    "--toastify-color-progress-dark": "#bb86fc",
+    "--toastify-color-progress-info": "var(--toastify-color-info)",
+    "--toastify-color-progress-success": "var(--toastify-color-success)",
+    "--toastify-color-progress-warning": "var(--toastify-color-warning)",
+    "--toastify-color-progress-error": "var(--toastify-color-error)"
+  },
+  "images": [
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/website/peerlist-logo-full-light.svg",
+      "alt": "Peerlist",
+      "width": 218,
+      "height": 56
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/website/peerlist-logo-full-dark.svg",
+      "alt": "Peerlist",
+      "width": 124,
+      "height": 32
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UH6AJ6LA96BBQOPFO7AGR6DKPAOK/h6aj6la96bbqopfo7agr6dkpaok-profile.webp",
+      "alt": "Aneeta's profile",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHBABLA8QDP6K86FO89QQ8GE868E/hbabla8qdp6k86fo89qq8ge868e-profile.webp",
+      "alt": "Jian Jie's profile",
+      "width": 460,
+      "height": 460
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GiigRktnPHZnugnl5ziESXL9YydqIaFt888keuw0n0=s96-c",
+      "alt": "vijay's profile",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHP69MBANBJR8AO2QN8698AQJDAL/hp69mbanbjr8ao2qn8698aqjdal-2013-profile.webp",
+      "alt": "Alexander Vassbotn's profile",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHKKNAN6G8ORKNO3OQNDPL6NGMBA/hkknan6g8orkno3oqndpl6ngmba-profile.webp",
+      "alt": "Ankur's profile",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UH6AJQELMOQPL6BFGAR9MDRDERQJ/h6ajqelmoqpl6bfgar9mdrderqj-profile.webp",
+      "alt": "Gaurav's profile",
+      "width": 274,
+      "height": 274
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHA9NK8QNDK7DOB2JAB8PQROLPQD/ha9nk8qndk7dob2jab8pqrolpqd-profile",
+      "alt": "Sushant's profile",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHJKRJLRRAGE9OOCR8QPD9GMRLLE/hjkrjlrrage9oocr8qpd9gmrlle-profile.webp",
+      "alt": "Jake's profile",
+      "width": 876,
+      "height": 876
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHQ797KRQQQB7KNFD7EDQ7GR9EMK/hq797krqqqb7knfd7edq7gr9emk-profile",
+      "alt": "Aykut's profile",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJsZIrZYJzdjFZLaXrqAsPQcPTFCxWdUBME8BwexV4uKg=s96-c",
+      "alt": "One's profile",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocI2FXiB-RJmJ91uw9ojY4ZVstdLXlWO1vz-kCEwSdZSFWkQ6Rg=s96-c",
+      "alt": "Ryan's profile",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHQ79P9OB79QERP3DMPORMJQDB8A/hq79p9ob79qerp3dmpormjqdb8a-profile.webp",
+      "alt": "Francisca's profile",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHJKRPBENKMQLPPFM7A76RJG9EJO/hjkrpbenkmqlppfm7a76rjg9ejo-profile.webp",
+      "alt": "Laura's profile",
+      "width": 2316,
+      "height": 2316
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHEOLQPQNNNRDNN29L7RJRDDERNJ/heolqpqnnnrdnn29l7rjrddernj-profile.webp",
+      "alt": "Maksym's profile",
+      "width": 2213,
+      "height": 2213
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHP69BNJ8LLEGMOFRAKR897R8N9O/hp69bnj8llegmofrakr897r8n9o-6817-profile.webp",
+      "alt": "Natnael's profile",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHBABABAND9QDRE1EEAEJDEEQB8J/hbababand9qdre1eeaejdeeqb8j-profile.webp",
+      "alt": "Derek's profile",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocL-M50pJaIEH9Eo8GOa65PnsY6qz5IHQtTD9YP9Pwsub3XU1wQ=s96-c",
+      "alt": "Emily's profile",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "src": "https://dqy38fnwh4fqs.cloudfront.net/UHEOL7ODGL687ONI99JJBP979PON/heol7odgl687oni99jjbp979pon-profile.webp",
+      "alt": "Luis's profile",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "svgCount": 39,
+  "fonts": [
+    "\"Times New Roman\"",
+    "Geist, sans-serif",
+    "Geist, \"Geist Fallback\"",
+    "instrument, \"instrument Fallback\""
+  ]
+}
